@@ -1,5 +1,7 @@
 db.sqlite3
 
 .env
+.venv
+.envrc
 
 */**/__pycache__/
